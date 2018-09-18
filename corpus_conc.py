@@ -46,6 +46,18 @@ def clean_lines(content):
     return content
 
 
+def antconc_export(tokens, filename):
+    out = []
+    for t in tokens:
+        lemma = t.lemma
+        pos = t.pos
+        token = t.content.replace(' ', '_')
+        out.append(f'{lemma}_{pos}_{token}')
+
+    out_file = Path('output/antconc') / filename.name
+    out_file.write_text(' '.join(out))
+
+
 def process_folders(config, format_func, user_vocabs=[], remove_page_info=True):
     in_folder = config['Exec']['input_folder']
     out_folder = config['Exec']['output_folder']
@@ -70,8 +82,9 @@ def process_folders(config, format_func, user_vocabs=[], remove_page_info=True):
         tokens = tok.tokenize(content)
         out = format_func(tokens)
         out = ' '.join(out).replace('\n ', '\n')
-        out_file = out_folder / str(f.name)
+        out_file = out_folder / f.name
         out_file.write_text(out, encoding='utf-8-sig')
+        antconc_export(tokens, f)
 
 
 def tokenize_folder(format_func):
@@ -188,6 +201,7 @@ def create_concs(marked, left=5, right=5):
 def clean_state():
     to_empty = [('output/concordances/', '*.tsv'),
                 ('output/tokenized/', '*.txt'),
+                ('output/antconc/', '*.txt'),
                 ('output/types/', '*.txt')]
     for path, ext in to_empty:
         for f in Path(path).glob(ext):
@@ -196,7 +210,6 @@ def clean_state():
 
 def main():
     clean_state()
-    tok_folder = Path('output/tokenized')
     tokenize_folder(mark_skrt_nonwords)
     get_oov_nonword_types('#', 'nonwords')
     get_oov_nonword_types('$', 'sanskrit')
