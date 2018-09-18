@@ -42,7 +42,6 @@ def clean_lines(content):
     content = re.sub(r'\{[^\}]+\}', '', content)
     content = re.sub(r'(^|\n)\d+\n.+\d\d\n', '', content)
     content = re.sub(r'(༺.+?)།.+?(༻)', r'\1\2', content)
-    # content = re.sub('\n', '', content)
     return content
 
 
@@ -51,7 +50,7 @@ def antconc_export(tokens, filename):
     for t in tokens:
         lemma = t.lemma
         pos = t.pos
-        token = t.content.replace(' ', '_')
+        token = t.content.replace(' ', '—')
         out.append(f'{lemma}_{pos}_{token}')
 
     out_file = Path('output/antconc') / filename.name
