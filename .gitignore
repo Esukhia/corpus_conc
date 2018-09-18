@@ -3,7 +3,7 @@
 
 # User data
 usecases/canon_concordancer/input
-usecases/canon_concordancer/output
+output/
 
 ### Eclipse ###
 .metadata
