@@ -24,7 +24,7 @@ class PyBoTrie(BasicTrie):
         else:
             self.load_trie()
 
-        # dynamically add the custom lists
+        # load the custom entries on the fly (at each instanciation)
         for f in self.user_word_list:
             self.__add_one_file(f)
 
