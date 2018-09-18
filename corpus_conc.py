@@ -14,6 +14,9 @@ default_config = '''Exec:
     tokenized_suffix: _tokenized
     rebuild_trie: False
 
+# for adding files containing POS tags,
+# add the file in "vocabs" and prefix it with ~p in the profiles below
+# ex: "vocabs/abc.txt" will need to be referenced as "~pabc.txt" 
 Profiles:
     Amdo1:
         - མཚོ་སྔོན་རྐང་ཚ།.txt'''
