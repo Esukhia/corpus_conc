@@ -37,6 +37,7 @@ def get_vocab_files(config):
 def clean_lines(content):
     content = re.sub(r'\[[^\]]+\]', '', content)
     content = re.sub(r'\{[^\}]+\}', '', content)
+    content = re.sub(r'(\n|^)[0-9\:\,\-\> ]+(\n)', r'\1\2', content)
     content = re.sub('\n', '', content)
     return content
 
