@@ -198,6 +198,11 @@ def create_concs(marked, left=5, right=5):
 
 
 def clean_state():
+    folders = ['output', 'output/concordances', 'output/tokenized',
+               'output/antconc', 'output/types']
+    for f in folders:
+        Path(f).mkdir(exist_ok=True)
+
     to_empty = [('output/concordances/', '*.tsv'),
                 ('output/tokenized/', '*.txt'),
                 ('output/antconc/', '*.txt'),
