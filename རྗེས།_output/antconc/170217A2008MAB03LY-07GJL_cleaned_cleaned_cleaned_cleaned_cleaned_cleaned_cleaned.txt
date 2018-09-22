@@ -1,0 +1,33 @@
+_punct_༼༼ ཧི་ཧི་_OOV_ཧི་ཧི་ ཧི་_syl_ཧི་ _punct_༽༽ ཆུ་_NOUN_ཆུ་ ནང་_NOUN_ནང་ ལ་_PART_དུ་ མཚོ་_NOUN_མཚོ་ ཡིན་_PART_ཡིན་ དང་_PART_དང་ _punct_།—
+༺ ཁྱོ་_NOUN_ཁྱོ་ _punct_༻ སྟེ་_PART_དེ་ ནང་_NOUN_ནང _punct_༺ ཙིག་_oov_ཙིག་ _punct_༻ འགུལ་བ་_VERB_འགུལ་བ་ དང་_PART_དང་ _punct_།—
+༼ ལ་_PART_ན་ གོ་_PART_ནོ་ པ་_PART_བ་ _punct_༽ འགུལ་_VERB_འགུལ _punct_།—༺ ཙམ་_DET_ཙམ་ ཙིས་_oov_ཙིས་ _punct_༻ མ་ལ་_INTJ_མ་ལ་ འགུལ་_VERB_འགུལ _punct_།—
+༺ ལ་_PART_དུ་ _punct_༻ མ་_PART_མ་ ཡིན་_PART_ཡིན _punct_།—
+༺ ལ་_PART_དུ་ _punct_༻ རེད་_VERB_རེད _punct_༻ རེད་_VERB_རེད _punct_།— ད་_ADV_ད་ ཤར་_VERB_ཤར་ བྱུང་_VERB_བྱུང་ _punct_།—
+ རྩྭ་_NOUN_རྩྭ _punct_༺ འདི་_DET_འདི་ གོ་_PART_མོ་ ཟིག་_non-word_ཟིག་ རེད་_VERB_རེད་ _punct_༻།—༺ ལ་_PART_དུ་ རྩྭ་ཆུ་_OOV_རྩྭ་ཆུ་ མར་_NOUN_མར་ ཕྱི་_NOUN_ཕྱི་ དང་_PART_དང་ _punct_༻།—
+༼༼ ཝ་_OTHER_ཝ་ ཝ་_OTHER_ཝ་ ཝ་_OTHER_ཝ་ _punct_༽༽ འདི་_DET_འདི་ ལང་_VERB_ལང _punct_༺ འགྱོ་_non-word_འགྱོ་ འུ་_OOV_འུ་ ཡ་_NOUN_ཡ་ _punct_༻།—
+༼༼ གུ་_OTHER_གུ་ གུ་_OTHER_གུ་ གུ་_OTHER_གུ་ གུ་_OTHER_གུ་ _punct_༽༽—
+
+
+ ང་_PRON_ང་ གི་_PART_གི _punct_།—
+༺ འགྱོ་_non-word_འགྱོ་ _punct_༻།—
+ འབུ་_NOUN_འབུ་ གི་_PART_གི་ གློག་_NOUN_གློག་ འོག་_NOUN_འོག _punct_།—
+
+
+ ད་_ADV_ད _punct_༼༽—
+༺ ད་_ADV_ད་ ལ་_PART_རུ་ _punct_༻ འཁྱག་_OOV_འཁྱག་ ནི་_PART_ནི་ མ་_PART_མ་ རེད་_VERB_རེད _punct_།— སྡོད་_VERB_སྡོད་ དང་_PART_དང་ _punct_།— བརྙན་_OOV_བརྙན་ འཕྲིན་_NOUN_འཕྲིན་ ལ་_PART_ལ་ ལྟོས་_VERB_ལྟོས _punct_།—
+ བརྙན་_OOV_བརྙན་ འཕྲིན་_NOUN_འཕྲིན་ ནང་_NOUN_ནང་ ནས་_PART_ནས་ ཤར་_VERB_ཤར་ དགོས་_VERB_དགོས _punct_།—
+
+ འདི་_DET_འདི _punct_༺ ཨུ་_OOV_ཨུ་ ཡིན་_PART_ཡིན་ _punct_༻། འདི་_DET_འདི་ ནས་_PART_ནས _punct_༺ ཧར་_VERB_ཧར་ ལ་_ADP_ར་ _punct_༻ འཇོག་_VERB_འཇོག་ པ་_PART_བ་ སྡོད་_VERB_སྡོད་ དང་_PART_དང་ _punct_།—
+
+
+༺ དུ་མ་_ADJ_དུ་མ་ རེད་_VERB_རེད་ ཡ་_NOUN_ཡ་ _punct_༻།—
+
+༺ ལ་_PART_དུ་ _punct_༻ རེད་_VERB_རེད _punct_༻།
+
+
+
+
+
+
+
+

@@ -1,0 +1,26 @@
+_punct_༺ ཁྱོ་_NOUN_ཁྱོ་ _punct_༻—༺ ཨ་པ་_OTHER_ཨ་པ་ _punct_༻༼༽༺ ཁྱོ་_NOUN_ཁྱོ་ _punct_༻—༺ ད་_ADV_ད་ སེངས་_OOV_སེངས་ _punct_༻ འདུག་_VERB_འདུག _punct_།—
+༺ ཨ་རོ་_OOV_ཨ་རོ་ _punct_༻—༺ འདི་_DET_འདི་ ཤ་མོ་_OTHER_ཤ་མོ་ མིན་_AUX_མིན་ ནི་_PART_ནི་ ཨུ་_OOV_ཨུ་ རེ་_DET_རེ་ _punct_༻།—
+༺ ཁྱོ་_NOUN_ཁྱོ་ གི་_PART_གི་ ཆི་_OTHER_ཆི་ ཟིག་_non-word_ཟིག་ ཨུ་_OOV_ཨུ་ གོ་_PART_གོ་ _punct_༻།—
+ འདི་_DET_འདི་ གྲལ་_NOUN_གྲལ་ རེད་_VERB_རེད _punct_།༼ ཁང་_NOUN_ཁང་ པ་_PART_བ་ སྟོང་_NUM_སྟོང་ སོང་_VERB_སོང་ ནི་_PART_ནི་ མིན་ནམ་_OOV_མིན་ནམ་ _punct_༽།—
+༺ ཧ་ར་_OOV_ཧ་ར་ _punct_༻ ལྟོས་_VERB_ལྟོས་ ལ་_PART_ན་ འདི་_DET_འདི་ ཡོད་_VERB_ཡོད་ ནི་_PART_ནི་ མ་_PART_མ་ རེད་_VERB_རེད _punct_།—
+ ཨ་_X_ཨ _punct_།— ང་_PRON_ང་ ཟོག་_NOUN_ཟོག་ འཚོ་_VERB_འཚོ _punct_།—
+༼༼ གུག་གུག་_OOV_གུག་གུག་ གུག་གུག་_OOV_གུག་གུག་ གུག་_VERB_གུག་ _punct_༽༽—
+༼༼ གུག་གུག་_OOV_གུག་གུག་ གུག་གུག་_OOV_གུག་གུག་ གུག་གུག་_OOV_གུག་གུག་ གུག་གུག་_OOV_གུག་གུག་ _punct_༽༽
+ ཁ་_PRON_ཁ་ གན་_NOUN_གན་ ཡར་_OTHER_ཡར་ རྒྱག་_VERB_རྒྱག་ ལ་_PART_ན་ _punct_།— དེ་ཡང་_ADV_དེ་ཡང་ _punct_༺ ཁྱོ་_NOUN_ཁྱོ་ _punct_༻༺ ད་ནི་_OOV_ད་ནི་ མི་_PART_མི་ ཆས་_VERB_ཆས་ ནི་_PART_ནི་ མིན་_AUX_མིན་ _punct_༻།—
+ གང་_PART_གང་ མང་_VERB_མང་ ཆས་_VERB_ཆས་ ལ་_PART_དུ _punct_།—
+
+༼༼ ཨེ་ཨེ་_INTJ_ཨེ་ཨེ་ ཡེ་_ADV_ཡེ་ _punct_༽༽༺ ཨུ་_OOV_ཨུ་ རིག་_VERB_རིག་ གི་_PART_གི་ _punct_༻།—
+༺ འུ་_OOV_འུ་ ཉིས་_NUM_ཉིས་ ག་_PRON_ག་ _punct_༻༺ འགྱོ་_non-word_འགྱོ་ _punct_༻ འོག་_NOUN_འོག་ གི་_PART_གི་ གཅིག་_NUM_གཅིག་ ལྟ་_NOUN_ལྟ _punct_།—
+༺ ལ་_PART_ན་ ཤོག་_VERB_ཤོག་ ད་_ADV_ད་ _punct_༻།—༺ ང་_PRON_ང་ གི་_PART_གི་ དཔེ་_NOUN_དཔེ་ ཁྱོ་_NOUN_ཁྱོ་ འ་_OOV_འ་ སེམས་_NOUN_སེམས་ ནང་_NOUN_ནང་ ཡོད་_VERB_ཡོད་ _punct_༻།—
+
+༼༽ ཡིན་_PART_ཡིན་ ནི་_PART_ནི་ རེད་_VERB_རེད _punct_།—
+ ཤོག་_VERB_ཤོག་ སྒམ་_OOV_སྒམ _punct_།— འདི་_DET_འདི་ རེད་_VERB_རེད _punct_།—༺ འུ་_OOV_འུ་ ཉིས་_NUM_ཉིས་ _punct_༻ ཤོག་_VERB_ཤོག་ སྒམ་_OOV_སྒམ _punct_༼༽— སེར་_NOUN_སེར་ གོ་_PART_བོ་ འདི་_DET_འདི་ ཁྱེར་_VERB_ཁྱེར _punct_།—
+༺ འདི་_DET_འདི་ གོ་_PART_མོ་ ཟིག་_non-word_ཟིག་ གི་_PART_གི་ _punct_༻།—༺ འདི་_DET_འདི་ གོ་_PART_མོ་ ཟིག་_non-word_ཟིག་ གི་_PART_གི་ _punct_༻༻།—༺ ཁྱོ་_NOUN_ཁྱོ་ _punct_༻ འདི་_DET_འདི་ སེན་མོ་_NOUN_སེན་མོ _punct_༺ འདི་_DET_འདི་ གོ་_PART_མོ་ _punct_༻ བྱེད་_VERB_བྱེད _punct_༻ སེན་མོ་_NOUN_སེན་མོ་ བྲིས་_VERB_བྲིས་ ཞོལ་_NOUN_ཞོལ་ གིན་_PART_གྱིན _punct_།— ལ་_PART_དུ གིས་_PART_ས་ ད་ལྟ་_OTHER_ད་ལྟ་ རྩིས་_NOUN_རྩིས་ ཆས་_VERB_ཆས་ སྟེ་_PART_དེ་ _punct_་་༼༽༺ འདི་_DET_འདི་ གོ་_PART_མོ་ ཟིག་_non-word_ཟིག་ _punct_༻།—༺ འདི་_DET_འདི་ གོ་_PART_མོ་ ཟིག་_non-word_ཟིག་ _punct_༻ ཡིན་_PART_ཡིན་ ཐལ་_VERB_ཐལ _punct_།—
+
+
+
+
+
+
+
+

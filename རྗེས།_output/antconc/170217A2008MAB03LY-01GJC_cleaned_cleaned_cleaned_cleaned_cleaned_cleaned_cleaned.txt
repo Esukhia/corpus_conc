@@ -1,0 +1,24 @@
+ཨ་མ་_NOUN_ཨ་མ གི་_PART_འི _punct_༺ ལག་_NOUN_ལག་ ལ་_PART_དུ་ ཆི་_OTHER_ཆི་ ཟིག་_non-word_ཟིག་ རེ་_DET_རེ་ _punct_༻།— མི་_PART_མི་ སྣང་_VERB_སྣང་ ཁུ་_PROPN_ཁུ _punct_།—༼༼ ཨ་ཡེ་_OOV_ཨ་ཡེ་ _punct_༽༽—
+༼ ཕོ་_NOUN_ཕོ་ མིང་_NOUN_མིང་ _punct_༽༺ ངེ་_PART_ངེ་ _punct_༻ འདི་_DET_འདི་ ལ་_PART_ན _punct_༺ ཧྲ་_oov_ཧྲ་ གོ་_PART_འོ་ _punct_༻། འདི་_DET_འདི་ ནས་_PART_ནས་ བལྟས་_VERB_བལྟས་ ནས་_PART_ནས་ ཤེས་_VERB_ཤེས _punct_༺ འདུག་_VERB_འདུག་ ཁུ་_PROPN_ཁུ་ _punct_༻།—
+༼༽
+༺ སྒ་_NOUN_སྒ་ འགྲོས་_VERB_འགྲོས་ _punct_༻ ནང་_NOUN_ནང་ འགྲོ་_VERB_འགྲོ་ ཤེས་_VERB_ཤེས _punct_།—
+༺ སྒ་_NOUN_སྒ་ འགྲོས་_VERB_འགྲོས་ _punct_༻ ནང་_NOUN_ནང་ འགྲོ་_VERB_འགྲོ་ ཤེས་_VERB_ཤེས _punct_།— གཅིག་_NUM_གཅིག་ གསུམ་_NUM_གསུམ་ གཉིས་_NUM_གཉིས་ དགུ་_NUM_དགུ་ དགུ་_NUM_དགུ་ བདུན་_NUM_བདུན་ གསུམ་_NUM_གསུམ་ ལྔ་_NUM_ལྔ་ ལྔ་_NUM_ལྔ་ བརྒྱད་_NUM_བརྒྱད་ ལྔ་_NUM_ལྔ་ བརྒྱད་_NUM_བརྒྱད _punct_།—
+༼ གོ་_PART_མོ་ མིང་_NOUN_མིང་ _punct_༽ སྐེ་_NOUN_སྐེ་ ཐོག་_NOUN_ཐོག་ ལ་_PART_ན་ གཅིག་_NUM_གཅིག་ ཐོགས་_VERB_ཐོགས _punct_།— _sym_༜ ཧ་_NOUN_ཧ་ གོ་_PART_བོ་ _punct_། _sym_༜
+ བློ་_NOUN_བློ་ ཅན་_PART_ཅན་ གི་_PART_གྱི་ བདག་གཉེར་_OTHER_བདག་གཉེར་ ཡིན་_PART_ཡིན་ ཚར་_VERB_ཚར་ ཟིན་_VERB_ཟིན _punct_།—༺ ཨ་རོ་_OOV_ཨ་རོ་ _punct_༻། འདི་_DET_འདི་ མི་_PART_མི་ ཤེས་_VERB_ཤེས་ ནི་_PART_ནི་ _punct_༺ ཨུ་_OOV_ཨུ་ རེད་_VERB_རེད་ _punct_༻།—
+ _sym_༜ ག་ག་_OOV_ག་ག་ _sym_༜ _punct_༺ ཇི་_PART_ཇི་ པ་_PART_བ་ མེད་_VERB_མེད་ ཁུ་_PROPN_ཁུ་ _punct_༻།—
+༺ མ་རིག་_NOUN_མ་རིག་ ཁུ་_PROPN_ཁུ་ _punct_༻།—
+༺ མེད་_VERB_མེད་ ཁུ་_PROPN_ཁུ་ པཱ་_syl_པཱ་ _punct_༻།—
+༺ གོ་_PART_གོ་ ནས་_PART_ནས་ _punct_༻༼༽ བཞག་_VERB_བཞག་ དགོས་_VERB_དགོས་ ནི་_PART_ནི་ རེད་_VERB_རེད _punct_།—
+༺ ཡོད་_VERB_ཡོད་ ཁུ་_PROPN_ཁུ་ _punct_༻།—༺ ཡོད་_VERB_ཡོད་ ཁུ་_PROPN_ཁུ་ _punct_༻།—
+༺ ཚུ་_OTHER_ཚུ ལ་_PART_ར་ ལ་_ADP_ར་ ཤོག་_VERB_ཤོག་ _punct_༻།—༺ ཚུ་_OTHER_ཚུ ལ་_PART_ར་ ལ་_ADP_ར་ སྒ་_NOUN_སྒ ལ་_PART_ར་ སོང་_VERB_སོང་ ལ་_PART_ན་ ཁྱོ་_NOUN_ཁྱོ་ ཆི་_OTHER_ཆི་ ཁུ་_PROPN_ཁུ་ ཡིན་_PART_ཡིན་ _punct_༻།—
+༺ ཇི་_PART_ཇི་ ཀྱང་_PART_ཡང་ མེད་_VERB_མེད་ ཁུ་_PROPN_ཁུ་ _punct_༻།—༺ འུ་_OOV_འུ་ ཉིས་_NUM_ཉིས་ _punct_༻ རྒྱུགས་_VERB_རྒྱུགས་ འདུག་_VERB_འདུག _punct_།—༺ ལ་_PART_དུ་ ངི་_non-word_ངི་ ཆོ་_OTHER_ཆོ་ ཡོང་_VERB_ཡོང་ གི་_PART_གི་ _punct_༻།—
+༺ ལ་_PART_དུ་ གོ་_PART_མོ་ གཅིག་_NUM_གཅིག་ _punct_༻།—
+༺ ཨུ་_OOV_ཨུ་ རིག་_VERB_རིག་ ཁུ་_PROPN_ཁུ་ _punct_༻།—
+
+
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+ངས་_OTHER_ངས་ གཅིག་_NUM_གཅིག་ ལྟ་_NOUN_ལྟ _punct_།
+
+
+ བདེན་_VERB_བདེན་ གི་_PART_གི _punct_།
+
+ ལ་_PART_དུ གི་_PART_འི་ ནང་_NOUN_ནང་ ནས་_PART_ནས་ མི་_PART_མི་ _punct_༺ དགོ་_oov_དགོ་ _punct_༻
+
+
+
+
+
+
+
+
+
