@@ -39,9 +39,10 @@ class PyBoChunk(BoChunk):
         :type indices: list of tuples containing each 3 ints
         """
         for num, i in enumerate(indices):
-            if num - 1 >= 0 and self.__only_contains_spaces(i[1], i[1] + i[2]):
-                indices[num - 1] = (indices[num - 1][0], indices[num - 1][1], indices[num - 1][2] + i[2])
-                indices[num] = False
+            if type(i) != tuple:
+                if num - 1 >= 0 and self.__only_contains_spaces(i[1], i[1] + i[2]):
+                    indices[num - 1] = (indices[num - 1][0], indices[num - 1][1], indices[num - 1][2] + i[2])
+                    indices[num] = False
 
         c = 0
         while c < len(indices):
