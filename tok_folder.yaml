@@ -1,5 +1,5 @@
 Exec:
-    profile: ''
+    profile: 'Amdo1'
     tok_profile: GMD
     vocab_path: vocabs
     input_folder: input
@@ -13,3 +13,9 @@ Exec:
 Profiles:
     Amdo1:
         - མཚོ་སྔོན་རྐང་ཚ།.txt
+        - སྤྱི་སྐད།.txt
+        - དམིགས་བསལ།.txt
+    Amdo2:
+        - མཚོ་སྔོན་རྐང་ཚ།.txt
+        - སྤྱི་སྐད།.txt
+        - དམིགས་བསལ།.txt

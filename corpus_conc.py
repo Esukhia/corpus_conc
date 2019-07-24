@@ -1,4 +1,4 @@
-from third_party.pybo import BoTokenizer
+from pybo import BoTokenizer
 from pathlib import Path
 import yaml
 import re
@@ -54,7 +54,7 @@ def antconc_export(tokens, filename):
         out.append(f'{lemma}_{pos}_{token}')
 
     out_file = Path('output/antconc') / filename.name
-    out_file.write_text(' '.join(out))
+    out_file.write_text(' '.join(out), encoding='utf-8')
 
 
 def process_folders(config, format_func, user_vocabs=[], remove_page_info=True):
@@ -65,11 +65,16 @@ def process_folders(config, format_func, user_vocabs=[], remove_page_info=True):
 
     in_folder = Path(in_folder)
     out_folder = Path(out_folder)
+    to_remove = Path('remove_vocabs').glob('*.txt')
 
     assert in_folder.is_dir()           # check the input folder exists
     out_folder.mkdir(exist_ok=True)     # ensure the output folder exists
 
-    tok = BoTokenizer(tok_profile, user_word_list=user_vocabs, ignore_chars=['\n'])
+    tok = BoTokenizer(tok_profile,
+                      toadd_filenames=user_vocabs,
+                      todel_filenames=to_remove,
+                      ignore_chars=['\n']
+                      )
     if bool(config['Exec']['rebuild_trie']):
         tok.tok.trie.rebuild_trie()
 
@@ -198,15 +203,20 @@ def create_concs(marked, left=5, right=5):
 
 
 def clean_state():
-    folders = ['output', 'output/concordances', 'output/tokenized',
-               'output/antconc', 'output/types']
+    folders = ['input',
+               'output',
+               'output/tokenized',
+               'output/antconc',
+               'output/types',
+               'remove_vocabs'
+               ]
     for f in folders:
         Path(f).mkdir(exist_ok=True)
 
-    to_empty = [('output/concordances/', '*.tsv'),
-                ('output/tokenized/', '*.txt'),
+    to_empty = [('output/tokenized/', '*.txt'),
                 ('output/antconc/', '*.txt'),
-                ('output/types/', '*.txt')]
+                ('output/types/', '*.txt')
+                ]
     for path, ext in to_empty:
         for f in Path(path).glob(ext):
             f.unlink()
